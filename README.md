@@ -3,6 +3,8 @@ practice-1
 | HTML | CSS | JAVASCRIPT     |
 |-----:|-----------|-----------|
 
+[Figma](https://www.figma.com/file/GTFWngiz1jEoFlU6yXqwEI/practice-html-css-js-%2F-informationBike?type=design&node-id=0%3A1&t=nKWsgcNWM44KRX4d-1)
+
 <ul>
   <li> Go to Top Button</li>
   <li> Responsive </li>
@@ -10,5 +12,6 @@ practice-1
 <ul/>  
   
  <a href="">
-    <img src="![image](https://github.com/Earfi/html-css-js-informationBike/assets/129359335/08bea31c-b035-46fc-944a-13605c4d26da)" alt="Youtube Badge" />
+    <img src="![image](https://github.com/Earfi/html-css-js-informationBike/assets/129359335/0aa966f1-b6af-415f-9031-ae68fcae1086)" alt="Youtube Badge" />
   </a>
+
