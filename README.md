@@ -14,8 +14,9 @@ practice_1
 
 ## Design
 [Figma](https://www.figma.com/file/GTFWngiz1jEoFlU6yXqwEI/practice-html-css-js-%2F-informationBike?type=design&node-id=0%3A1&t=nKWsgcNWM44KRX4d-1)
-
-
   
-
+<div style="display: flex;,flex-direction: row;">
+  <img src="https://github.com/Earfi/practice_informationBike_html_css_js/assets/129359335/2c51a583-bbea-4d8b-97c2-5322f58b8461" alt="image" style="width: 50%; max-width: 500px;">
+  <img src="https://github.com/Earfi/practice_informationBike_html_css_js/assets/129359335/2c51a583-bbea-4d8b-97c2-5322f58b8461" alt="image" style="width: 50%; max-width: 500px; margin-left: 10px;">
+</div>
 
