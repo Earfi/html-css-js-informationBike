@@ -1,0 +1,79 @@
+.introduce_bikes {
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    width: max-content;
+    margin-top: 20px;
+}
+
+.intro_text {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    align-items: center;
+    width: 100%;
+}
+
+.intro_text h1 {
+    font-size: xx-large;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+    text-align: center;
+}
+
+.intro_text hr {
+    border: 1px solid rgb(226, 143, 0);
+    width: 300px;
+}
+
+.intro_bike_all {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* เพิ่มบรรทัดนี้ */
+    width: 100%;
+}
+
+.intro_bike {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.intro_img {
+    width: 300px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 20px;
+}
+
+.intro_bike h1 {
+    color: white;
+    text-align: center;
+    text-shadow: 1px 1px 1px black;
+}
+
+@media screen and (min-width:750px) {
+    .intro_bike_all {
+        display: grid;
+        grid-template-columns: repeat(2, max-content);
+        column-gap: 20px;
+    }
+}
+
+@media screen and (min-width:1060px) {
+    .intro_bike_all {
+        grid-template-columns: repeat(3, max-content);
+        column-gap: 20px;
+    }
+}
+
+@media screen and (min-width:1348px) {
+    .intro_bike_all {
+        grid-template-columns: repeat(4, max-content);
+        column-gap: 20px;
+    }
+}

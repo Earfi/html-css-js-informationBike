@@ -1,28 +1,8 @@
-:root {
-    --h1-font-size: 1.5rem;
-    --h2-font-size: 1.25rem;
-    --h3-font-size: 1rem;
-}
-
-@media screen and (min-width: 1152px) {
-    :root {
-        --h1-font-size: 2.5rem;
-        --h2-font-size: 1.5rem;
-        --h3-font-size: 1.25rem;
-    }
-}
-
 * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
-
-
-html {
-    scroll-behavior: smooth;
-}
-
 
 a {
     text-decoration: none;
@@ -36,12 +16,6 @@ li {
 .continer {
     margin-left: 1rem;
     margin-right: 1rem;
-}
-
-body{
-    background-image: url('../img/bg.jpg');
-    background-size: cover;
-    background-position: center;
 }
 
 .grid{
@@ -180,25 +154,6 @@ hr{
     justify-content: center;
 }
 
-/* --------- footer ------------ */
-
-.footer{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding-right: 10px;
-    padding-left: 10px;
-    margin-top: 20px;
-    background: rgb(0, 0, 0);
-    width: 100%;
-    height: 50px;
-    border-top: 1px solid red;
-}
-
-.footer h1{
-    color: white;
-    font-size: 14px;
-}
 @media screen and (min-width:576px) {
     .home_data {
         display: flex;
@@ -223,6 +178,10 @@ hr{
         row-gap: 1.5rem;
         column-gap: 1.5rem;
         grid-template-columns: repeat(2,max-content);
+    }
+
+    .brand_news_all{
+        margin-top: 10px;
     }
 }
 
@@ -407,7 +366,7 @@ hr{
         grid-template-columns: repeat(5,max-content);
     }
 
-    .footer{
-        margin-top: 40px;
+    .brand_news{
+        margin-bottom: 40px;
     }
 }
