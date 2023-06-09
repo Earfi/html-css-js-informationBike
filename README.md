@@ -17,6 +17,6 @@ practice_1
   
 <div style="display: flex;,flex-direction: row;">
   <img src="https://github.com/Earfi/practice_informationBike_html_css_js/assets/129359335/2c51a583-bbea-4d8b-97c2-5322f58b8461" alt="image" style="width: 50%; max-width: 500px;">
-  <img src="https://github.com/Earfi/practice_informationBike_html_css_js/assets/129359335/2c51a583-bbea-4d8b-97c2-5322f58b8461" alt="image" style="width: 50%; max-width: 500px; margin-left: 10px;">
+  <img src="https://github.com/Earfi/practice_informationBike_html_css_js/assets/129359335/248d6520-9263-44c1-ba25-dcdee8960cc4" alt="image" style="width: 50%; max-width: 500px; margin-left: 10px;">
 </div>
 
