@@ -53,8 +53,7 @@ sr.reveal(`.intro_text`,{delay:300,origin:'left'})
 
 // detail bike
 sr.reveal(`.third_topic,.engine_img`,{delay:300})
-sr.reveal(`.main_h1,.main_img,.second_info,.third_engine`,{delay:300,origin:'left'})
-sr.reveal(`.main_info,.second_img`,{delay:300,origin:'right'})
+sr.reveal(`.main_h1,.main_img,.second_info,.third_engine,.main_info,.second_img`,{delay:300,origin:'left'})
 
 // bottom
 sr.reveal(`.footer`,{delay:300,origin:'bottom'})
